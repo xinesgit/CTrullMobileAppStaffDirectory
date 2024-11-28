@@ -1,0 +1,33 @@
+{ "id": 1,
+"name": "John Smith", 
+"phoneNumber": 02 9988 2211, 
+"streetAddress": "1 Code Lane",
+"city": "Javaville",
+"State": "NSW",
+"Postcode": 0100,
+"Country": "Australia,
+},
+
+{ "id": 1,
+"name": "John Smith", 
+"phoneNumber": 02 9988 2211, 
+"streetAddress": "1 Code Lane",
+"city": "Javaville",
+"State": "NSW",
+"Postcode": 0100,
+"Country": "Australia,
+},
+
+{ "id": 2,
+"name": "Sue White", 
+"phoneNumber": 03 8899 2255, 
+"streetAddress": "16 Bit Way",
+"city": "Byte Cove",
+"State": "QLD",
+"Postcode": 1101,
+"Country": "Australia,
+},
+
+
+
+
