@@ -18,7 +18,7 @@
         "state": "QLD",
         "postcode": "1101",
         "country": "Australia"
-    }
+    },
       {
         "id": 4,
         "name": "Mary Blue",
@@ -28,7 +28,8 @@
         "state": "NT",
         "postcode": "1010",
         "country": "Australia"
-    }  {
+    }, 
+    {
         "id": 5,
         "name": "Mick Green",
         "phoneNumber": "02 9988 1122",
