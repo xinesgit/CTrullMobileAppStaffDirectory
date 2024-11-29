@@ -19,6 +19,25 @@
         "postcode": "1101",
         "country": "Australia"
     }
+      {
+        "id": 3,
+        "name": "Bob OBits",
+        "phoneNumber": "05 7788 2255",
+        "streetAddress": "8 Silicon Road",
+        "city": "Cloud Hills",
+        "state": "Vic",
+        "postcode": "1101",
+        "country": "Australia"
+    }  {
+        "id": 2,
+        "name": "Sue White",
+        "phoneNumber": "03 8899 2255",
+        "streetAddress": "16 Bit Way",
+        "city": "Byte Cove",
+        "state": "QLD",
+        "postcode": "1101",
+        "country": "Australia"
+    }
 ]
 
 
