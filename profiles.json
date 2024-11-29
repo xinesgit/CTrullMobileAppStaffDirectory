@@ -20,22 +20,22 @@
         "country": "Australia"
     }
       {
-        "id": 3,
-        "name": "Bob OBits",
-        "phoneNumber": "05 7788 2255",
-        "streetAddress": "8 Silicon Road",
-        "city": "Cloud Hills",
-        "state": "Vic",
-        "postcode": "1101",
+        "id": 4,
+        "name": "Mary Blue",
+        "phoneNumber": "06 4455 9988",
+        "streetAddress": "8 Processor Boulevard",
+        "city": "Appleston",
+        "state": "NT",
+        "postcode": "1010",
         "country": "Australia"
     }  {
-        "id": 2,
-        "name": "Sue White",
-        "phoneNumber": "03 8899 2255",
-        "streetAddress": "16 Bit Way",
-        "city": "Byte Cove",
-        "state": "QLD",
-        "postcode": "1101",
+        "id": 5,
+        "name": "Mick Green",
+        "phoneNumber": "02 9988 1122",
+        "streetAddress": "700 Bandwith Street",
+        "city": "Bufferland",
+        "state": "NSW",
+        "postcode": "0110",
         "country": "Australia"
     }
 ]
