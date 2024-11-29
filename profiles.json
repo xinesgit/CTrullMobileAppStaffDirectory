@@ -1,6 +1,6 @@
 [
     {
-        "id": 2,
+        "id": 1,
         "name": "John Smith",
         "phoneNumber": "02 9988 2211",
         "streetAddress": "1 Code Lane",
@@ -38,7 +38,7 @@
         "state": "NSW",
         "postcode": "0110",
         "country": "Australia"
-    }
+    },
 ]
 
 
